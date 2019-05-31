@@ -1,0 +1,16 @@
+name: fluttr_protorecorder
+description: A new flutter project.
+version: 0.2.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  http: ^0.11.3+16
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/sytody.png
